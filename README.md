@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate programmer from India.</h3>
 
 - 🌱 I’m currently learning **Competitive Programming, Java Full Stack.**
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C, Java, Backend.**
 
-- 📫 How to reach me **rahulbhagwat125@gmail.com**
+- 📫 Reach me through **[Gmail](rahulbhagwat125@gmail.com)**
 
 - ⚡ Fun fact **Most of my repos are private..**
 
