@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Competitive Programming, Java Full Stack.**
 
-- 🤝 I’m looking for help with **Core Java**
+- 🤝 I’m looking for help with **Core Java**.
 
 - 💬 Ask me about **C, Java, Backend.**
 
