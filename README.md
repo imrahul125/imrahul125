@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C, Java, Backend**
 
-- 📫 How to reach me **rahulbhagwat125@gmail.com**
+- 📫 How to reach me **[Gmail](rahulbhagwat125@gmail.com)**
 
 - ⚡ Fun fact **Most of my repos are private..**
 
