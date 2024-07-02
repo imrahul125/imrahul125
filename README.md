@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate programmer from India.</h3>
 
-- 🌱 I’m currently learning **Competitive Programming, Java Full Stack.**
+- 🌱 I’m currently learning **React, Android Development**
 
-- 🤝 I’m looking for help with **Core Java**.
+- 🤝 I’m looking for help with **Android Development**.
 
-- 💬 Ask me about **C, Java, Backend.**
+- 💬 Ask me about **C, Java, Kotlin, Backend.**
 
 - 📫 Reach me through **[Gmail](rahulbhagwat125@gmail.com)**
 
